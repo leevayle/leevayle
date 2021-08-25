@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leevayle
 - 👀 I’m interested in coding and programming in general
-- 🌱 I’m currently learning it
+- 🌱 I’m currently learning it at kisii university
 - 💞️ I’m looking to collaborate on website building and app building
 - 📫 Reach me through email: lee254kinanga@gmail.com
 
