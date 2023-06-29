@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @leevayle
-- 👀 I’m interested in coding and programming in general
-- 🌱 I’m currently learning it at kisii university
-- 💞️ I’m looking to collaborate on website building and app building
-- 📫 Reach me through email: lee254kinanga@gmail.com
+lee here, trying to make everyithing code related possible.
 
 <!---
 leevayle/leevayle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
