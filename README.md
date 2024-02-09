@@ -1,4 +1,4 @@
-lee here, trying to make everyithing code related possible.
+Lee here!
 
 <!---
 leevayle/leevayle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
